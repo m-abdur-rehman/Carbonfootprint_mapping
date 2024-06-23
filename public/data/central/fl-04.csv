@@ -1,0 +1,29 @@
+Project Name,FL-04,,,,,,,,,
+Expected Project Duration,60 months,,,,,,,,,
+No of story of Project,2B+G+14,,,,,,,,,
+Carbon Emission,2093.52,,,,,,,,,
+PHASE/STAGE OF CONSTUCTION,Equipment Name,Work,New/Old,Fuel Type (Diesel/Petrol),Fuel Consumption (Liter/day),Hours Operated,Emission Factor,Carbon Footprint,Unit,Unit (PPM)
+Site Clearance,Backhoe,-,-,-,-,-,-,-,-,-
+,Wheel Tractor Scrapers,-,-,-,-,-,-,-,-,-
+,Bulldozers,-,-,-,-,-,-,-,-,-
+,Dewatering Pump,-,-,-,-,-,-,-,-,-
+,Loader,Moving Soil / Rocks,Old,Diesel,40,2,2.64,105.6,Kg of CO2,-
+,Dumper,Dumping Soil,Old,Diesel,25,7,2.64,66,Kg of CO2,-
+Excavation,Excavators,Excavation,Old,Diesel,120,8,2.64,316.8,Kg of CO2,-
+,Dumper,Moving excavated soil,Old,DIesel,40,10,2.64,105.6,Kg of CO2,-
+,Dewatering Pump,Getting rid of water,Old,DIesel,8,4,2.64,21.12,Kg of CO2,-
+,Bulldozer,-,Old,Diesel,60,5,-,-,-,-
+Foundation ,Concrete Mixer ,-,-,-,-,-,-,-,-,-
+,Pile diver,-,-,-,-,-,-,-,-,-
+,Trencher,-,-,-,-,-,-,-,-,-
+,Transit Mixer,Concreting,Old,Diesel,70,10,2.64,184.8,Kg of CO2,-
+,Static Pump,Concreting,Old,Diesel,100,20,2.64,264,Kg of CO2,-
+Sub Structure Work,Mixer,Mixing Concrete,Old,Diesel,100,12,2.64,264,Kg of CO2,-
+,Vibrator,Proper Compaction,Old,Diesel,50,6,2.64,132,Kg of CO2,-
+"beam, wall, column construction",Mixer,Mixing Concrete,Old,Diesel,50,10,2.64,132,Kg of CO2,-
+,Vibrator,Proper Compaction,Old,Diesel,40,4,2.64,105.6,Kg of CO2,-
+Floor slab construction,Mixer,Mixing Concrete,Old,Diesel,100,10,2.64,264,Kg of CO2,-
+,Vibrator,Proper Compaction,Old,Diesel,50,4,2.64,132,Kg of CO2,-
+,Paver,-,-,-,-,-,,,,
+Any other work:,,,,,,,,,,
+Total Carbon Footprint,,,,,853,,,2093.52,Kg of CO2,2454.30

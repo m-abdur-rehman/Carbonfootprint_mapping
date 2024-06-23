@@ -1,0 +1,29 @@
+Project Name,AA Residencia,,,,,,,,,
+Expected Project Duration,60 months,,,,,,,,,
+No of story of Project,2B+G+22,,,,,,,,,
+Carbon Emission,1903.44,,,,,,,,,
+PHASE/STAGE OF CONSTUCTION,Equipment Name,Work,New/Old,Fuel Type (Diesel/Petrol),Fuel Consumption (Liter/day),Hours Operated,Emission Factor,Carbon Footprint,Unit,Unit (PPM)
+Site Clearance,Backhoe,-,-,-,-,-,-,-,-,-
+,Wheel Tractor Scrapers,-,-,-,-,-,-,-,-,-
+,Bulldozers,-,-,-,-,-,-,-,-,-
+,Dewatering Pump,-,-,-,-,-,-,-,-,-
+,Loader,Moving Soil / Rocks,-,-,-,-,-,-,-,-
+,Dumper,Dumping Soil,Old,Diesel,30,8,2.64,79.2,Kg of CO2,-
+Excavation,Excavators,Excavation,Old,Diesel,200,12,2.64,528,Kg of CO2,-
+,Dumper,Moving excavated soil,Old,DIesel,35,12,2.64,92.4,Kg of CO2,-
+,Dewatering Pump,Getting rid of water,Old,DIesel,10,2,2.64,26.4,Kg of CO2,-
+,Bulldozer,-,Old,Diesel,60,3,-,-,-,-
+Foundation ,Concrete Mixer ,-,-,-,-,-,-,-,-,-
+,Pile diver,-,-,-,-,-,-,-,-,-
+,Trencher,-,-,-,-,-,-,-,-,-
+,Transit Mixer,Concreting,Old,Diesel,70,6,2.64,184.8,Kg of CO2,-
+,Static Pump,Concreting,Old,Diesel,120,24,2.64,316.8,Kg of CO2,-
+Sub Structure Work,Mixer,Mixing Concrete,Old,Diesel,60,10,2.64,158.4,Kg of CO2,-
+,Vibrator,Proper Compaction,Old,Diesel,20,2,2.64,52.8,Kg of CO2,-
+"beam, wall, column construction",Mixer,Mixing Concrete,Old,Diesel,60,10,2.64,158.4,Kg of CO2,-
+,Vibrator,Proper Compaction,Old,Diesel,20,2,2.64,52.8,Kg of CO2,-
+Floor slab construction,Mixer,Mixing Concrete,Old,Diesel,66,12,2.64,174.24,Kg of CO2,-
+,Vibrator,Proper Compaction,Old,Diesel,30,3,2.64,79.2,Kg of CO2,-
+,Paver,-,-,-,-,-,-,-,-,-
+Any other work:,,,,,,,,,,
+Total Carbon Footprint,,,,,781,,,1903.44,Kg of CO2,2437.18

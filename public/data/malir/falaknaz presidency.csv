@@ -1,0 +1,30 @@
+Project Name,Falaknaz Presidency,,,,,,,,,
+Expected Project Duration,48 months,,,,,,,,,
+No of story of Project,G+20,,,,,,,,,
+Carbon Emission,754,,,,,,,,,
+PHASE/STAGE OF CONSTUCTION,Equipment Name,Work,New/Old,Fuel Type (Diesel/Petrol),Fuel Consumption (Liter/day),Hours Operated,Emission Factor,Carbon Footprint,Unit,Unit (PPM)
+Site Clearance,Backhoe,-,-,-,-,-,-,-,-,-
+,Wheel Tractor Scrapers,-,-,-,-,-,-,-,-,-
+,Bulldozers,-,-,-,-,-,-,-,-,-
+,Dewatering Pump,-,-,-,-,-,-,-,-,-
+,Loader,Moving Soil / Rocks,old,Diesel,80,4,2.64,211.2,Kg of CO2,-
+,Dumper,Dumping Soil,Old,Diesel,20,4,2.64,52.8,Kg of CO2,-
+Excavation,Excavators,Excavation,-,-,-,-,-,-,-,-
+,Dumper,Moving excavated soil,Old,DIesel,20,5,2.64,52.8,Kg of CO2,-
+,Dewatering Pump,Getting rid of water,-,-,-,-,-,-,-,-
+,Bulldozer,-,Old,Diesel,50,4,2.64,132,Kg of CO2,-
+Foundation ,Concrete Mixer ,-,old,Diesel,20,3,2.64,52.8,Kg of CO2,-
+,Pile diver,-,-,-,-,-,-,-,-,-
+,Trencher,-,-,-,-,-,-,-,-,-
+,Transit Mixer,Concreting,Old,Diesel,60,5,2.64,158.4,Kg of CO2,-
+,Static Pump,Concreting,-,-,-,-,-,-,-,-
+Sub Structure Work,Mixer,Mixing Concrete,-,-,-,-,-,-,-,-
+,Vibrator,Proper Compaction,-,-,-,-,-,-,-,-
+"beam ,wall ,column construction",Mixer,Mixing Concrete,-,-,-,-,-,-,-,-
+,Vibrator,Proper Compaction,-,-,-,-,-,-,-,-
+Floor slab construction,Mixer,Mixing Concrete,-,-,-,-,-,-,-,-
+,Vibrator,Proper Compaction,-,-,-,-,-,-,-,-
+,Paver,-,-,-,-,-,-,-,-,-
+Any other work:,,,,,,,,,,
+Generator,,,new,petrol,40,4,2.35,94,Kg of CO2,
+Total Carbon Footprint,,,,,290,,,754,Kg of CO2,2600.00
