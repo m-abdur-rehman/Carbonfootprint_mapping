@@ -1,0 +1,30 @@
+Project Name,Otel Residency,,,,,,,,,
+Expected Project Duration,5 years,,,,,,,,,
+No of story of Project,G+40,,,,,,,,,
+Carbon Emission,1053.77,,,,,,,,,
+PHASE/STAGE OF CONSTUCTION,Equipment Name,Work,New/Old,Fuel Type (Diesel/Petrol),Fuel Consumption (Liter/day),Hours Operated,Emission Factor,Carbon Footprint,Unit,Unit (PPM)
+Site Clearance,Backhoe,-,-,-,-,-,-,-,-,-
+,Wheel Tractor Scrapers,-,-,-,-,-,-,-,-,-
+,Bulldozers,-,-,-,-,-,-,-,-,-
+,Dewatering Pump,-,-,-,-,-,-,-,-,-
+,Loader,Moving Soil / Rocks,-,-,-,-,-,-,-,-
+,Dumper,Dumping Soil,Old,Diesel,30,6,2.64,79.2,Kg of CO2,-
+Excavation,Excavators,Excavation,Old,Diesel,186,6,2.64,491.04,Kg of CO2,-
+,Dumper,Moving excavated soil,Old,DIesel,30,6,2.64,79.2,Kg of CO2,-
+,Dewatering Pump,Getting rid of water,Old,DIesel,12,1.5,2.64,31.68,Kg of CO2,-
+,Bulldozer,-,-,-,-,-,-,-,-,-
+Foundation,Concrete Mixer,-,old,diesel,20,5,2.64,52.8,Kg of CO2,-
+,Pile diver,-,-,-,-,-,-,-,-,-
+,Trencher,-,-,Diesel,25,3,2.64,66,Kg of CO2,-
+,Transit Mixer,Concreting,Old,Diesel,65,5.5,2.64,171.6,Kg of CO2,-
+,Static Pump,Concreting,Old,-,-,-,-,-,-,-
+Sub Structure Work,Mixer,Mixing Concrete,-,-,-,-,-,-,-,-
+,Vibrator,Proper Compaction,-,-,-,-,-,-,-,-
+"beam ,wall ,column construction",Mixer,Mixing Concrete,-,-,-,-,-,-,-,-
+,Vibrator,Proper Compaction,-,-,-,-,-,-,-,-
+Floor slab construction,Mixer,Mixing Concrete,-,-,-,-,-,-,-,-
+,Vibrator,Proper Compaction,-,-,-,-,-,-,-,-
+,Paver,-,-,-,-,-,-,-,-,-
+Any other work:,,,,,,,,,,
+Generator,,,new,petrol,35,3,2.35,82.25,Kg of CO2,
+Total Carbon Footprint,,,,,403,,,1053.77,Kg of CO2,2614.81

@@ -1,0 +1,31 @@
+Project Name,ASF Towers,,,,,,,,,
+Expected Project Duration,Sector 35 A,Gulzar-e-Hijri,Scheme 33,,,,,,,
+No of story of Project,G+20,,,,,,,,,
+Carbon Emission,2473.16,,,,,,,,,
+PHASE/STAGE OF CONSTUCTION,Equipment Name,Work,New/Old,Fuel Type (Diesel/Petrol),Fuel Consumption (Liter/day),Hours Operated,Emission Factor,Carbon Footprint,Unit,Unit (PPM)
+Site Clearance,Backhoe,-,-,-,-,-,-,-,-,-
+,Wheel Tractor Scrapers,-,-,-,-,-,-,-,-,-
+,Bulldozers,-,-,-,-,-,-,-,-,-
+,Dewatering Pump,-,-,-,-,-,-,-,-,-
+,Loader,Moving Soil / Rocks,Old,Diesel,60,4,2.64,158.4,Kg of CO2,-
+,Dumper,Dumping Soil,Old,Diesel,60,8,2.64,158.4,Kg of CO2,-
+Excavation,Excavators,Excavation,Old,Diesel,85,6,2.64,224.4,Kg of CO2,-
+,Dumper,Moving excavated soil,Old,DIesel,40,5,2.64,105.6,Kg of CO2,-
+,Dewatering Pump,Getting rid of water,Old,DIesel,4,5,2.64,10.56,Kg of CO2,-
+,Bulldozer,-,-,-,-,-,-,-,-,-
+Foundation,Concrete Mixer,-,-,-,-,-,-,-,-,-
+,Pile diver,-,-,-,-,-,-,-,-,-
+,Trencher,-,-,-,-,-,-,-,-,-
+,Transit Mixer,Concreting,Old,Diesel,85,6,2.64,224.4,Kg of CO2,-
+,Static Pump,Concreting,Old,Diesel,180,8,2.64,475.2,Kg of CO2,-
+Sub Structure Work,Mixer,Mixing Concrete,Old,Diesel,40,6,2.64,105.6,Kg of CO2,-
+,Vibrator,Proper Compaction,Old,Diesel,45,4,2.64,118.8,Kg of CO2,-
+"beam ,wall ,column construction",Mixer,Mixing Concrete,Old,Diesel,50,8,2.64,132,Kg of CO2,-
+,Vibrator,Proper Compaction,Old,Diesel,25,3,2.64,66,Kg of CO2,-
+Floor slab construction,Mixer,Mixing Concrete,Old,Diesel,45,7,2.64,118.8,Kg of CO2,-
+,Vibrator,Proper Compaction,Old,Diesel,50,5,2.64,132,Kg of CO2,-
+,Paver,-,-,-,-,-,-,-,-,-
+,Mobile Pump,Concreting,Old,Diesel,150,8,2.64,396,Kg of CO2,-
+Any other work:,,,,,,,,,,
+Generator,,,New,Petrol,20,3,2.35,47,Kg of CO2,
+Total Carbon Footprint,,,,,939,,,2473.16,Kg of CO2,2633.82
